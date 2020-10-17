@@ -13,7 +13,7 @@
         <script>
             async function imgdisp(){
                 
-                const resp= await fetch('https://promit-revar.github.io/To-Do-List/Menu.js');//https://jsonplaceholder.typicode.com/posts
+                const resp= await fetch('https://promit-revar.github.io/Json-server/Menu.js');//https://jsonplaceholder.typicode.com/posts
                 const post = await resp.json();
                 for(var i=0;i<=14;i++){
                 document.getElementById('posts').innerHTML+=menu[i].item+"<br>";
