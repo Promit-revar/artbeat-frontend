@@ -15,8 +15,8 @@
                 
                 const resp= await fetch('https://promit-revar.github.io/Json-server/Menu.json');//https://jsonplaceholder.typicode.com/posts
                 const post = await resp.json();
-                for(var i=0;i<=14;i++){
-                document.getElementById('posts').innerHTML+=menu[i].item+"<br>";
+                for(var i=0;i<=4;i++){
+                document.getElementById('posts').innerHTML+=Non-veg[i].item+"<br>";
                     //" UserId= "+post[i].userId+ " &nbsp;&nbsp;&nbsp;&nbsp;ID= " + post[i].id +"<br>"+post[i].body+"<br><br>";
                 }
             }
