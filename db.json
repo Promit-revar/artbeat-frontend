@@ -1,0 +1,46 @@
+[{
+          "playerName": "Asuna",
+          "playerTag": "1279",
+          "agentPlayed": "Jett",
+          "gunKills": 16,
+          "abilityImpact": [
+            {
+              "abilityOrder": 1,
+              "kills": 5
+            },
+            {
+              "abilityOrder": 2,
+              "kills": 1
+            }
+          ]
+        },{
+          "playerName": "Asuna",
+          "playerTag": "1279",
+          "agentPlayed": "Jett",
+          "gunKills": 12,
+          "abilityImpact": [
+            {
+              "abilityOrder": 1,
+              "kills": 1
+            },
+            {
+              "abilityOrder": 2,
+              "kills": 1
+            }
+          ]
+        }, {
+          "playerName": "Asuna",
+          "playerTag": "1279",
+          "agentPlayed": "Raze",
+          "gunKills": 22,
+          "abilityImpact": [
+            {
+              "abilityOrder": 1,
+              "kills": 1
+            },
+            {
+              "abilityOrder": 2,
+              "kills": 5
+            }
+          ]
+        } ]
