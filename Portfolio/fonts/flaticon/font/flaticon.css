@@ -29,7 +29,7 @@
 font-style: normal;
 margin-left: 20px;
 }
-
+.flaticon-paint:before { content: "\f100"; }
 .flaticon-3d-design:before { content: "\f100"; }
 .flaticon-web-programming:before { content: "\f101"; }
 .flaticon-app-development:before { content: "\f102"; }
