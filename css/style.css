@@ -191,7 +191,9 @@ label {
 
 button {
   border-radius: 0; }
-
+.input-text{
+  width: 80%;
+}
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color; }
